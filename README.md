@@ -35,7 +35,11 @@ In addition, we deploy and record 10,000 user locations in the street area in 'u
 - PosArray: the xy coordinates of the 10,000 user locations.
 
 ## Algorithm 
-(in progress)
+You can run the code in "main" subfolder. The "Demo_xxx" files demonstrate the property of the algorithm with visual details. The "sim_yyy" files are massive simluations to reproduce (part of) the results published in the paper 
+
+J. Chen, U. Mitra, D. Gesbert, “3D Urban UAV Relay Placement: Linear Complexity Algorithm and Analysis”, IEEE Trans. Wireless Commun., vol. 20, no. 8, pp. 5243–5257, 2021. 
+
+Note that the code depends on the functions in "uavLibrary" subfolder and the data in "uavDataset" subfolder.
 
 Contact information:
 - Author: Junting CHEN
